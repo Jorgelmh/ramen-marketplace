@@ -3,5 +3,5 @@
   "deno.lint": true,
   "editor.defaultFormatter": "denoland.vscode-deno",
   "deno.unstable": true,
-  "deno.importMap": "./client/deno.json"
+  "deno.importMap": "./deno.json"
 }

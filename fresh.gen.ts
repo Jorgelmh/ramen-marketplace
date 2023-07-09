@@ -17,6 +17,6 @@ const manifest = {
     "./islands/Counter.tsx": $$0,
   },
   baseUrl: import.meta.url,
-}
+};
 
 export default manifest;
